@@ -1,5 +1,5 @@
 <h1>Skype Emoticons for Trillian v1.0</h1>
-<strong>Author:</strong> <a href="http://twitter.com/GreenManSK">@GreenManSK</a>
+<strong>Author:</strong> <a href="http://twitter.com/GreenManSK">@GreenManSK</a><br />
 Skype Emoticons for Trillian 3.xx+<br />
 There are all emoticons from Skype expect flags.<br />
 There is <a href="http://factoryjoe.com/projects/emoticons/">list of all emoticons</a>.<br />
