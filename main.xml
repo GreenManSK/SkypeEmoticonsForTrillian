@@ -1,0 +1,911 @@
+<!--
+	Skype Emoticons
+        ========================
+        Original Skype Emoticon Set for skins for Cerulean-Studio's Trillian 3.xx+
+        By @GreenManSK (www.twitter.com/GreenManSK)
+
+        Set Version: 1.0
+        Height of each Emoticon: 19 px
+-->
+
+<bitmap	name="smile" file="../../stixe/plugins/SkypeEmoticons/smile.gif"/>
+<bitmap	name="sadsmile" file="../../stixe/plugins/SkypeEmoticons/sadsmile.gif"/>
+<bitmap name="bigsmile" file="../../stixe/plugins/SkypeEmoticons/bigsmile.gif"/>
+<bitmap name="cool" file="../../stixe/plugins/SkypeEmoticons/cool.gif"/>
+<bitmap name="wink" file="../../stixe/plugins/SkypeEmoticons/wink.gif"/>
+<bitmap name="crying" file="../../stixe/plugins/SkypeEmoticons/crying.gif"/>
+<bitmap name="sweating" file="../../stixe/plugins/SkypeEmoticons/sweating.gif"/>
+<bitmap name="speechless" file="../../stixe/plugins/SkypeEmoticons/speechless.gif"/>
+<bitmap name="kiss" file="../../stixe/plugins/SkypeEmoticons/kiss.gif"/>
+<bitmap name="tongueout" file="../../stixe/plugins/SkypeEmoticons/tongueout.gif"/>
+<bitmap name="blush" file="../../stixe/plugins/SkypeEmoticons/blush.gif"/>
+<bitmap name="wondering" file="../../stixe/plugins/SkypeEmoticons/wondering.gif"/>
+<bitmap name="sleepy" file="../../stixe/plugins/SkypeEmoticons/sleepy.gif"/>
+<bitmap name="dull" file="../../stixe/plugins/SkypeEmoticons/dull.gif"/>
+<bitmap name="inlove" file="../../stixe/plugins/SkypeEmoticons/inlove.gif"/>
+<bitmap name="evilgrin" file="../../stixe/plugins/SkypeEmoticons/evilgrin.gif"/>
+<bitmap name="talking" file="../../stixe/plugins/SkypeEmoticons/talking.gif"/>
+<bitmap name="yawn" file="../../stixe/plugins/SkypeEmoticons/yawn.gif"/>
+<bitmap name="puke" file="../../stixe/plugins/SkypeEmoticons/puke.gif"/>
+<bitmap name="doh" file="../../stixe/plugins/SkypeEmoticons/doh.gif"/>
+<bitmap name="angry" file="../../stixe/plugins/SkypeEmoticons/angry.gif"/>
+<bitmap name="itwasntme" file="../../stixe/plugins/SkypeEmoticons/itwasntme.gif"/>
+<bitmap name="party" file="../../stixe/plugins/SkypeEmoticons/party.gif"/>
+<bitmap name="worried" file="../../stixe/plugins/SkypeEmoticons/worried.gif"/>
+<bitmap name="mmm" file="../../stixe/plugins/SkypeEmoticons/mmm.gif"/>
+<bitmap name="nerd" file="../../stixe/plugins/SkypeEmoticons/nerd.gif"/>
+<bitmap name="lipssealed" file="../../stixe/plugins/SkypeEmoticons/lipssealed.gif"/>
+<bitmap name="hi" file="../../stixe/plugins/SkypeEmoticons/hi.gif"/>
+<bitmap name="call" file="../../stixe/plugins/SkypeEmoticons/call.gif"/>
+<bitmap name="devil" file="../../stixe/plugins/SkypeEmoticons/devil.gif"/>
+<bitmap name="angel" file="../../stixe/plugins/SkypeEmoticons/angel.gif"/>
+<bitmap name="envy" file="../../stixe/plugins/SkypeEmoticons/envy.gif"/>
+<bitmap name="wait" file="../../stixe/plugins/SkypeEmoticons/wait.gif"/>
+<bitmap name="bear" file="../../stixe/plugins/SkypeEmoticons/bear.gif"/>
+<bitmap name="makeup" file="../../stixe/plugins/SkypeEmoticons/makeup.gif"/>
+<bitmap name="giggle" file="../../stixe/plugins/SkypeEmoticons/giggle.gif"/>
+<bitmap name="clapping" file="../../stixe/plugins/SkypeEmoticons/clapping.gif"/>
+<bitmap name="thinking" file="../../stixe/plugins/SkypeEmoticons/thinking.gif"/>
+<bitmap name="bow" file="../../stixe/plugins/SkypeEmoticons/bow.gif"/>
+<bitmap name="rofl" file="../../stixe/plugins/SkypeEmoticons/rofl.gif"/>
+<bitmap name="whew" file="../../stixe/plugins/SkypeEmoticons/whew.gif"/>
+<bitmap name="happy" file="../../stixe/plugins/SkypeEmoticons/happy.gif"/>
+<bitmap name="smirk" file="../../stixe/plugins/SkypeEmoticons/smirk.gif"/>
+<bitmap name="nod" file="../../stixe/plugins/SkypeEmoticons/nod.gif"/>
+<bitmap name="shake" file="../../stixe/plugins/SkypeEmoticons/shake.gif"/>
+<bitmap name="punch" file="../../stixe/plugins/SkypeEmoticons/punch.gif"/>
+<bitmap name="emo" file="../../stixe/plugins/SkypeEmoticons/emo.gif"/>
+<bitmap name="yes" file="../../stixe/plugins/SkypeEmoticons/yes.gif"/>
+<bitmap name="no" file="../../stixe/plugins/SkypeEmoticons/no.gif"/>
+<bitmap name="handshake" file="../../stixe/plugins/SkypeEmoticons/handshake.gif"/>
+<bitmap name="heart" file="../../stixe/plugins/SkypeEmoticons/heart.gif"/>
+<bitmap name="brokenheart" file="../../stixe/plugins/SkypeEmoticons/brokenheart.gif"/>
+<bitmap name="mail" file="../../stixe/plugins/SkypeEmoticons/mail.gif"/>
+<bitmap name="flower" file="../../stixe/plugins/SkypeEmoticons/flower.gif"/>
+<bitmap name="rain" file="../../stixe/plugins/SkypeEmoticons/rain.gif"/>
+<bitmap name="sun" file="../../stixe/plugins/SkypeEmoticons/sun.gif"/>
+<bitmap name="time" file="../../stixe/plugins/SkypeEmoticons/time.gif"/>
+<bitmap name="music" file="../../stixe/plugins/SkypeEmoticons/music.gif"/>
+<bitmap name="movie" file="../../stixe/plugins/SkypeEmoticons/movie.gif"/>
+<bitmap name="phone" file="../../stixe/plugins/SkypeEmoticons/phone.gif"/>
+<bitmap name="coffee" file="../../stixe/plugins/SkypeEmoticons/coffee.gif"/>
+<bitmap name="pizza" file="../../stixe/plugins/SkypeEmoticons/pizza.gif"/>
+<bitmap name="cash" file="../../stixe/plugins/SkypeEmoticons/cash.gif"/>
+<bitmap name="muscle" file="../../stixe/plugins/SkypeEmoticons/muscle.gif"/>
+<bitmap name="cake" file="../../stixe/plugins/SkypeEmoticons/cake.gif"/>
+<bitmap name="beer" file="../../stixe/plugins/SkypeEmoticons/beer.gif"/>
+<bitmap name="drink" file="../../stixe/plugins/SkypeEmoticons/drink.gif"/>
+<bitmap name="dance" file="../../stixe/plugins/SkypeEmoticons/dance.gif"/>
+<bitmap name="ninja" file="../../stixe/plugins/SkypeEmoticons/ninja.gif"/>
+<bitmap name="star" file="../../stixe/plugins/SkypeEmoticons/star.gif"/>
+<bitmap name="mooning" file="../../stixe/plugins/SkypeEmoticons/mooning.gif"/>
+<bitmap name="middlefinger" file="../../stixe/plugins/SkypeEmoticons/middlefinger.gif"/>
+<bitmap name="bandit" file="../../stixe/plugins/SkypeEmoticons/bandit.gif"/>
+<bitmap name="drunk" file="../../stixe/plugins/SkypeEmoticons/drunk.gif"/>
+<bitmap name="smoke" file="../../stixe/plugins/SkypeEmoticons/smoke.gif"/>
+<bitmap name="toivo" file="../../stixe/plugins/SkypeEmoticons/toivo.gif"/>
+<bitmap name="rock" file="../../stixe/plugins/SkypeEmoticons/rock.gif"/>
+<bitmap name="headbang" file="../../stixe/plugins/SkypeEmoticons/headbang.gif"/>
+<bitmap name="bug" file="../../stixe/plugins/SkypeEmoticons/bug.gif"/>
+<bitmap name="fubar" file="../../stixe/plugins/SkypeEmoticons/fubar.gif"/>
+<bitmap name="poolparty" file="../../stixe/plugins/SkypeEmoticons/poolparty.gif"/>
+<bitmap name="swear" file="../../stixe/plugins/SkypeEmoticons/swear.gif"/>
+<bitmap name="tmi" file="../../stixe/plugins/SkypeEmoticons/tmi.gif"/>
+<bitmap name="heidy" file="../../stixe/plugins/SkypeEmoticons/heidy.gif"/>
+<bitmap name="myspace" file="../../stixe/plugins/SkypeEmoticons/myspace.gif"/>
+<bitmap name="malthe" file="../../stixe/plugins/SkypeEmoticons/malthe.gif"/>
+<bitmap name="tauri" file="../../stixe/plugins/SkypeEmoticons/tauri.gif"/>
+<bitmap name="priidu" file="../../stixe/plugins/SkypeEmoticons/priidu.gif"/>
+<bitmap name="skyp" file="../../stixe/plugins/SkypeEmoticons/skyp.gif"/>
+
+<prefs>
+    <control name="emoticons" type="emoticons">
+
+        <group text="Skype Emoticons" initial="1">
+
+            <emoticon text= ":)" button="yes">
+                <source name= "smile"  left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+            <emoticon text= ":-)">
+                <source name= "smile"  left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+            <emoticon text= ":=)">
+                <source name= "smile"  left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+            
+            <emoticon text= ":(" button="yes">
+                <source name= "sadsmile"  left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+            <emoticon text= ":-(">
+                <source name= "sadsmile"  left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+            <emoticon text= ":=(">
+                <source name= "sadsmile"  left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+	
+            <emoticon text=":D" button="yes">
+                <source name= "bigsmile" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":=D">
+                <source name= "bigsmile" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":-D">
+                <source name= "bigsmile" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":d">
+                <source name= "bigsmile" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":=d">
+                <source name= "bigsmile" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":-d">
+                <source name= "bigsmile" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="8)" button="yes">
+                <source name= "cool" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="8=)">
+                <source name= "cool" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="8-)">
+                <source name= "cool" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="B)">
+                <source name= "cool" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="B=)">
+                <source name= "cool" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="B-)">
+                <source name= "cool" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(cool)">
+                <source name= "cool" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":o" button="yes">
+                <source name= "wink" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":=o">
+                <source name= "wink" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":-o">
+                <source name= "wink" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":O">
+                <source name= "wink" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":=O">
+                <source name= "wink" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":-O">
+                <source name= "wink" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=";(" button="yes">
+                <source name= "crying" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=";-(">
+                <source name= "crying" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=";=(">
+                <source name= "crying" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+            
+            <emoticon text="(sweat)" button="yes">
+                <source name= "sweating" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(:|">
+                <source name= "sweating" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":|" button="yes">
+                <source name= "speechless" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":=|">
+                <source name= "speechless" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":-|">
+                <source name= "speechless" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":*" button="yes">
+                <source name= "kiss" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":=*">
+                <source name= "kiss" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":-*">
+                <source name= "kiss" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":P" button="yes">
+                <source name= "tongueout" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":=P">
+                <source name= "tongueout" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":-P">
+                <source name= "tongueout" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":p">
+                <source name= "tongueout" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":=p">
+                <source name= "tongueout" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":-p">
+                <source name= "tongueout" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(blush)" button="yes">
+                <source name= "blush" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":$">
+                <source name= "blush" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":-$">
+                <source name= "blush" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":=$">
+                <source name= "blush" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":&#34;&gt;">
+                <source name= "blush" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":^)" button="yes">
+                <source name= "wondering" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+        
+            <emoticon text=":^)" button="yes">
+                <source name= "wondering" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="|-)" button="yes">
+                <source name= "sleepy" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="I-)">
+                <source name= "sleepy" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="I=)">
+                <source name= "sleepy" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(snooze)">
+                <source name= "sleepy" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="|(" button="yes">
+                <source name= "dull" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="|-(">
+                <source name= "dull" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="|=(">
+                <source name= "dull" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(inlove)" button="yes">
+                <source name= "inlove" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="]:)" button="yes">
+                <source name= "evilgrin" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="&gt;:)">
+                <source name= "evilgrin" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(grin)">
+                <source name= "evilgrin" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(talk)" button="yes">
+                <source name= "talking" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(yawn)" button="yes">
+                <source name= "yawn" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="|-()">
+                <source name= "yawn" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(puke)" button="yes">
+                <source name= "puke" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":&amp;">
+                <source name= "puke" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":-&amp;">
+                <source name= "puke" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":=&amp;">
+                <source name= "puke" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(doh)" button="yes">
+                <source name= "doh" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":@" button="yes">
+                <source name= "angry" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":-@">
+                <source name= "angry" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":=@">
+                <source name= "angry" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="x(">
+                <source name= "angry" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="x-(">
+                <source name= "angry" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="x=(">
+                <source name= "angry" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="X(">
+                <source name= "angry" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="X-(">
+                <source name= "angry" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="X=(">
+                <source name= "angry" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(wasntme)" button="yes">
+                <source name= "itwasntme" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(party)" button="yes">
+                <source name= "party" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":S" button="yes">
+                <source name= "worried" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":-S">
+                <source name= "worried" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":=S">
+                <source name= "worried" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":s">
+                <source name= "worried" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":-s">
+                <source name= "worried" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":=s">
+                <source name= "worried" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(mm)" button="yes">
+                <source name= "mmm" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="8-|" button="yes">
+                <source name= "nerd" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="B-|">
+                <source name= "nerd" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="8|">
+                <source name= "nerd" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="B|">
+                <source name= "nerd" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="8=|">
+                <source name= "nerd" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="B=|">
+                <source name= "nerd" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(nerd)">
+                <source name= "nerd" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":x" button="yes">
+                <source name= "lipssealed" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":-x">
+                <source name= "lipssealed" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":X">
+                <source name= "lipssealed" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":-X">
+                <source name= "lipssealed" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":#">
+                <source name= "lipssealed" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":-#">
+                <source name= "lipssealed" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":=x">
+                <source name= "lipssealed" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":=X">
+                <source name= "lipssealed" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":=#">
+                <source name= "lipssealed" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(hi)" button="yes">
+                <source name= "hi" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(call)" button="yes">
+                <source name= "call" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(devil)" button="yes">
+                <source name= "devil" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(angel)" button="yes">
+                <source name= "angel" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(envy)" button="yes">
+                <source name= "envy" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(wait)" button="yes">
+                <source name= "wait" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(bear)" button="yes">
+                <source name= "bear" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(hug)">
+                <source name= "bear" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(makeup)" button="yes">
+                <source name= "makeup" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(kate)">
+                <source name= "makeup" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(giggle)" button="yes">
+                <source name= "giggle" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(chuckle)">
+                <source name= "giggle" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(clap)" button="yes">
+                <source name= "clapping" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(think)" button="yes">
+                <source name= "thinking" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":?">
+                <source name= "thinking" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":-?">
+                <source name= "thinking" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text=":=?">
+                <source name= "thinking" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(bow)" button="yes">
+                <source name= "bow" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(rofl)" button="yes">
+                <source name= "rofl" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(whew)" button="yes">
+                <source name= "whew" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(happy)" button="yes">
+                <source name= "happy" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(smirk)" button="yes">
+                <source name= "smirk" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(nod)" button="yes">
+                <source name= "nod" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(shake)" button="yes">
+                <source name= "shake" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(punch)" button="yes">
+                <source name= "punch" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(emo)" button="yes">
+                <source name= "emo" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(y)" button="yes">
+                <source name= "yes" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(Y)">
+                <source name= "yes" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(ok)">
+                <source name= "yes" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(n)" button="yes">
+                <source name= "no" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(N)">
+                <source name= "no" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(handshake)" button="yes">
+                <source name= "handshake" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(skype)" button="yes">
+                <source name= "skyp" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+            
+            <emoticon text="(ss)">
+                <source name= "skyp" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(h)" button="yes">
+                <source name= "heart" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(H)">
+                <source name= "heart" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(l)">
+                <source name= "heart" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(L)">
+                <source name= "heart" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(u)" button="yes">
+                <source name= "brokenheart" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(U)">
+                <source name= "brokenheart" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(e)" button="yes">
+                <source name= "mail" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(m)">
+                <source name= "mail" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(f)" button="yes">
+                <source name= "flower" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(F)">
+                <source name= "flower" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(rain)" button="yes">
+                <source name= "rain" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(london)">
+                <source name= "rain" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(st)">
+                <source name= "rain" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(sun)" button="yes">
+                <source name= "sun" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(o)" button="yes">
+                <source name= "time" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(O)">
+                <source name= "time" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(time)">
+                <source name= "time" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(music)" button="yes">
+                <source name= "music" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(~)" button="yes">
+                <source name= "movie" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(film)">
+                <source name= "movie" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(movie)">
+                <source name= "movie" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(mp)" button="yes">
+                <source name= "phone" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(ph)">
+                <source name= "phone" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(coffee)" button="yes">
+                <source name= "coffee" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(pizza)" button="yes">
+                <source name= "pizza" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(pi)">
+                <source name= "pizza" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(cash)" button="yes">
+                <source name= "cash" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(mo)">
+                <source name= "cash" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="($)">
+                <source name= "cash" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(muscle)" button="yes">
+                <source name= "muscle" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(flex)">
+                <source name= "muscle" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(^)" button="yes">
+                <source name= "cake" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(cake)">
+                <source name= "cake" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(beer)" button="yes">
+                <source name= "beer" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(d)" button="yes">
+                <source name= "drink" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(D)">
+                <source name= "drink" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(dance)" button="yes">
+                <source name= "dance" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="\o/">
+                <source name= "dance" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="\:D/">
+                <source name= "dance" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="\:d/">
+                <source name= "dance" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(ninja)" button="yes">
+                <source name= "ninja" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(*)" button="yes">
+                <source name= "star" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(mooning)">
+                <source name= "mooning" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(finger)">
+                <source name= "middlefinger" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(bandit)">
+                <source name= "bandit" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(drunk)">
+                <source name= "drunk" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(smoking)">
+                <source name= "smoke" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(smoke)">
+                <source name= "smoke" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(ci)">
+                <source name= "smoke" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(toivo)">
+                <source name= "toivo" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(rock)">
+                <source name= "rock" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(headbang)">
+                <source name= "headbang" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(banghead)">
+                <source name= "headbang" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(bug)">
+                <source name= "bug" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(fubar)">
+                <source name= "fubar" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(poolparty)">
+                <source name= "poolparty" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(swear)">
+                <source name= "swear" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(tmi)">
+                <source name= "tmi" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(heidy)">
+                <source name= "heidy" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(MySpace)">
+                <source name= "myspace" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(malthe)">
+                <source name= "malthe" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(tauri)">
+                <source name= "tauri" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+
+            <emoticon text="(priidu)">
+                <source name= "priidu" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+        
+        </group>
+
+	&Emoticon-Extensions;
+
+	&iniMenuItemColor;
+
+	&iniIconMenuItemSettings;
+
+
+        <font name="section" source="ttfDefault" type="&iniDefaultFontName;" size="&iniDefaultFontSize;" bold="0"/>
+
+    </control>
+</prefs>
+
