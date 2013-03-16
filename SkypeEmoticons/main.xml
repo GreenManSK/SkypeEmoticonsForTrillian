@@ -203,6 +203,10 @@
                 <source name= "crying" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
             </emoticon>
 
+            <emoticon text=":'(">
+                <source name= "crying" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
+            </emoticon>
+			
             <emoticon text=";-(">
                 <source name= "crying" left=" 0" right=" 19" top=" 0" bottom=" 19"/>
             </emoticon>
